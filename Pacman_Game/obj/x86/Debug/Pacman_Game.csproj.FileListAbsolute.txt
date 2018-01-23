@@ -1,0 +1,50 @@
+C:\Users\Mr.Fard\Documents\Visual Studio 2010\Projects\Packman_Game\Packman_Game\bin\Debug\Packman_Game.exe
+C:\Users\Mr.Fard\Documents\Visual Studio 2010\Projects\Packman_Game\Packman_Game\bin\Debug\Packman_Game.pdb
+C:\Users\Mr.Fard\Documents\Visual Studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr.Fard\Documents\Visual Studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\Packman_Game.Form1.resources
+C:\Users\Mr.Fard\Documents\Visual Studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\Packman_Game.Properties.Resources.resources
+C:\Users\Mr.Fard\Documents\Visual Studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mr.Fard\Documents\Visual Studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mr.Fard\Documents\Visual Studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\Packman_Game.exe
+C:\Users\Mr.Fard\Documents\Visual Studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\Packman_Game.pdb
+C:\Users\Mr.Fard\Documents\Visual Studio 2010\Projects\Packman_Game\Pacman_Game\obj\x86\Debug\Packman_Game.exe
+C:\Users\Mr.Fard\Documents\Visual Studio 2010\Projects\Packman_Game\Pacman_Game\obj\x86\Debug\Packman_Game.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\Pacman_Game\obj\x86\Debug\Packman_Game.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\Pacman_Game\obj\x86\Debug\Packman_Game.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\Pacman_Game\bin\Debug\Packman_Game.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\Pacman_Game\bin\Debug\Packman_Game.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\Pacman_Game\obj\x86\Debug\Pacman_Game.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\Pacman_Game\obj\x86\Debug\Packman_Game.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\Pacman_Game\obj\x86\Debug\Packman_Game.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\Pacman_Game\obj\x86\Debug\Pacman_Game.csproj.GenerateResource.Cache
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest\Pacman_Game\obj\x86\Debug\Packman_Game.exe
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest\Pacman_Game\obj\x86\Debug\Packman_Game.pdb
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest\Pacman_Game\bin\Debug\Packman_Game.exe
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest\Pacman_Game\bin\Debug\Packman_Game.pdb
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest\Pacman_Game\obj\x86\Debug\Pacman_Game.csprojResolveAssemblyReference.cache
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest\Pacman_Game\obj\x86\Debug\Packman_Game.Form1.resources
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest\Pacman_Game\obj\x86\Debug\Packman_Game.Properties.Resources.resources
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest\Pacman_Game\obj\x86\Debug\Pacman_Game.csproj.GenerateResource.Cache
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest_md\Pacman_Game\obj\x86\Debug\Packman_Game.exe
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest_md\Pacman_Game\obj\x86\Debug\Packman_Game.pdb
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest_md\Pacman_Game\bin\Debug\Packman_Game.exe
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest_md\Pacman_Game\bin\Debug\Packman_Game.pdb
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest_md\Pacman_Game\obj\x86\Debug\Packman_Game.Form1.resources
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest_md\Pacman_Game\obj\x86\Debug\Packman_Game.Properties.Resources.resources
+D:\隨班附讀\物件導向\期末報告\Pacman_from槍手_1.12_23.29  latest_md\Pacman_Game\obj\x86\Debug\Pacman_Game.csproj.GenerateResource.Cache
+D:\_Antonia\#師大機電\^物件導向程式設計\Projects\FinalsProject_Pacman尹祤\Pacman_Game\obj\x86\Debug\Packman_Game.exe
+D:\_Antonia\#師大機電\^物件導向程式設計\Projects\FinalsProject_Pacman尹祤\Pacman_Game\obj\x86\Debug\Packman_Game.pdb
+D:\_Antonia\#師大機電\^物件導向程式設計\Projects\FinalsProject_Pacman尹祤\Pacman_Game\bin\Debug\Packman_Game.exe
+D:\_Antonia\#師大機電\^物件導向程式設計\Projects\FinalsProject_Pacman尹祤\Pacman_Game\bin\Debug\Packman_Game.pdb
+D:\_Antonia\#師大機電\^物件導向程式設計\Projects\FinalsProject_Pacman尹祤\Pacman_Game\obj\x86\Debug\Pacman_Game.csprojResolveAssemblyReference.cache
+D:\_Antonia\#師大機電\^物件導向程式設計\Projects\FinalsProject_Pacman尹祤\Pacman_Game\obj\x86\Debug\Packman_Game.Form1.resources
+D:\_Antonia\#師大機電\^物件導向程式設計\Projects\FinalsProject_Pacman尹祤\Pacman_Game\obj\x86\Debug\Packman_Game.Properties.Resources.resources
+D:\_Antonia\#師大機電\^物件導向程式設計\Projects\FinalsProject_Pacman尹祤\Pacman_Game\obj\x86\Debug\Pacman_Game.csproj.GenerateResource.Cache
+D:\隨班附讀\物件導向\期末報告\FinalsProject_Pacman_FinalVersion\Pacman_Game\bin\Debug\Packman_Game.exe
+D:\隨班附讀\物件導向\期末報告\FinalsProject_Pacman_FinalVersion\Pacman_Game\bin\Debug\Packman_Game.pdb
+D:\隨班附讀\物件導向\期末報告\FinalsProject_Pacman_FinalVersion\Pacman_Game\obj\x86\Debug\Pacman_Game.csprojResolveAssemblyReference.cache
+D:\隨班附讀\物件導向\期末報告\FinalsProject_Pacman_FinalVersion\Pacman_Game\obj\x86\Debug\Packman_Game.Form1.resources
+D:\隨班附讀\物件導向\期末報告\FinalsProject_Pacman_FinalVersion\Pacman_Game\obj\x86\Debug\Packman_Game.Properties.Resources.resources
+D:\隨班附讀\物件導向\期末報告\FinalsProject_Pacman_FinalVersion\Pacman_Game\obj\x86\Debug\Pacman_Game.csproj.GenerateResource.Cache
+D:\隨班附讀\物件導向\期末報告\FinalsProject_Pacman_FinalVersion\Pacman_Game\obj\x86\Debug\Packman_Game.exe
+D:\隨班附讀\物件導向\期末報告\FinalsProject_Pacman_FinalVersion\Pacman_Game\obj\x86\Debug\Packman_Game.pdb
