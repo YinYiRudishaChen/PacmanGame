@@ -1,5 +1,6 @@
 # PacmanGame
-We practice extending the source code from the website.  we find a classic game, and try to read this code and add some functions.
+It includes many Objected-oriendted programming concepts, so we practice doing some modifications and extending the source code from the website.
+
 2 modifications:
 (1) in Form1.cs, we use "for loop" to shorten the code.
 (2) in Enemy.cs, we seperate "class Pacman" from it.
